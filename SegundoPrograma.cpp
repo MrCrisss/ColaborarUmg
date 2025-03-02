@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 
-class TercerPrograma{
-	
-};//ññññlll
+class SegundoPrograma{
+	int nombre;
+};
