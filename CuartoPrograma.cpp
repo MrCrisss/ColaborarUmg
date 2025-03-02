@@ -1,2 +1,5 @@
 #include <iostream>
-сс
+using namespace std;
+class CuartoPrograma{
+	ссс nnn	nnn
+};
