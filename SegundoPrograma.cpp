@@ -3,4 +3,4 @@ using namespace std;
 
 class TercerPrograma{
 	
-};//сссс
+};//ссссlll
