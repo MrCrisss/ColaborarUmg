@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 
-class Quintoprograma{
+class Quinto_programa{
 	
 };
